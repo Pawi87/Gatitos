@@ -1,5 +1,5 @@
 
-@media screen and (max-width: 900px){
+@media screen and (max-width: 800px){
   .background{
     background-image: url("../assets/images/sunny-day.jpg");
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@
   }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 500px){
   .background{
     background-image: url("../assets/images/night.jpg");
     background-repeat: no-repeat;
